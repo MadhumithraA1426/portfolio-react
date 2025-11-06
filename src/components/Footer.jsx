@@ -1,0 +1,20 @@
+import { ScreenFitText } from "@/framer/Screenfit";
+
+import { VelocityText } from "@/framer/Velocitytext";
+
+const Footer = () => {
+    return (
+      <footer className="p-0 relative  bg-gradient-to-br from-black via-[#1a1a2e] to-[#16213e]
+text-center text-white">
+
+    {/* <ScreenFitText/> */}
+       
+    {/* <VelocityText/> */}
+    <p>&copy; 2025 ImMaddy. All rights reserved.</p>
+    
+      </footer>
+    );
+  };
+  
+  export default Footer;
+  
