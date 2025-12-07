@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import proimg1 from "../assets/images/image1.png";
 import proimg2 from "../assets/images/image2.png";
-//import proimg4 from "../assets/images/image4.png";
+import proimg3 from "../assets/images/image3.png";
 //import proimg5 from "../assets/images/image5.png";
 
 import TypingEffect from "../framer/TypingEffect";
@@ -16,6 +16,13 @@ const projects = [
     preview: "https://aicopilot-healthcare-monitoring-dnn.onrender.com/",
     descp:"Monitor and ensure the safety of your elderly loved ones with AI-powered alerts and insights.",
     techstack:"Tech Stack: Deep Neural Networks · Python · MySQL · Flask"
+  },
+  {
+    title: "Excess Food Management System",
+    image: proimg3,
+    preview: "https://excess-food-management-vrfl.onrender.com/",
+    descp:"A full‑stack Excess Food Management web app where donors can list surplus food with an expiry time and users can quickly discover and contact donors before the food is wasted.",
+    techstack:"Tech Stack: TypeScript · Node · Express · SQLite"
   },
   {
     title: "Infinity Academy - Tution Center",
