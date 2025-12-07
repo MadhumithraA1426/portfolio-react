@@ -10,7 +10,7 @@ export const skills = [
       category: "Back-End Engineering",
       description:
         "Built scalable models using DL algorithms like AI Copilot with real time datasets from kaggle and worked with API tokens.",
-      icons: ["python", "ML Integration", "API", "nodejs"],
+      icons: ["python", "ML Integration", "API", "TypeScript", "Express", "Node"],
     },
     {
       category: "Data & Storage Systems",
