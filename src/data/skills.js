@@ -3,7 +3,7 @@ export const skills = [
         category: "Front-End Development",
         description:
           "Crafting high-performance, scalable interfaces with modern front-end stacks like React and Next.js, focusing on accessibility, responsiveness, and user engagement.",
-        icons: ["html", "javascript", "react", "css", "bootstrap"],
+        icons: ["html5", "css3", "react", "javascript", "bootstrap"],
       },
       
     {
@@ -16,19 +16,19 @@ export const skills = [
       category: "Data & Storage Systems",
       description:
         "Worked with MongoDB and experienced in both SQL and NoSQL database design.",
-      icons: ["mysql", "postgresql", "mongodb"],
+      icons: ["mysql", "mongodb"],
     },
     {
       category: "Cloud Operations & Deployment",
       description:
-        "Deployed apps on platforms like Render and Vercel with CI/CD practices; used Docker for containerization in backend services.",
-      icons: ["docker", "aws", "azure", "vercel", "render"],
+        "Deployed apps on platforms like Render and Vercel with CI/CD practices.",
+      icons: ["github pages", "vercel", "render"],
     },
     {
       category: "Programming Fundamentals",
       description:
         "Strong problem-solving skills through C, Python, and TypeScript; applied in building logic-heavy features across projects.",
-      icons: ["python", "c", "cpp", "java", "javascript"],
+      icons: ["python", "cpp", "java"],
     },
     {
       category: "Version Control & Team Collaboration",
