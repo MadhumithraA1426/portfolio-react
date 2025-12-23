@@ -19,7 +19,7 @@ export const skills = [
       icons: ["mysql", "mongodb"],
     },
     {
-      category: "Cloud Operations & Deployment",
+      category: "Deployment",
       description:
         "Deployed apps on platforms like Render and Vercel with CI/CD practices.",
       icons: ["github pages", "vercel", "render"],
